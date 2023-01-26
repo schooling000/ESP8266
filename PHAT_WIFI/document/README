@@ -13,4 +13,4 @@ More information about PlatformIO Unit Testing:
 CHẾ ĐỘ PHÁT WIFI TRONG ESP8266
 - ACCESS POINT (WIFI_AP) : Cung cấp một kết nối từ các thiết bị client đến modul ESP8266
     * Cấu hình kết nổi module esp8266
-    WiFi.softAPConfig(IPAddress local_ip, IPAddress gateway, IPAddress subnet);
+      WiFi.softAPConfig(IPAddress local_ip, IPAddress gateway, IPAddress subnet);
